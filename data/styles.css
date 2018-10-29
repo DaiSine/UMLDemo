@@ -19,7 +19,11 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 ._图片 {
+}
+.placeholder {
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
@@ -82,9 +86,15 @@
   font-weight:400;
   font-style:normal;
 }
+.image {
+}
 .line {
 }
 .text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
   color:#000000;
   text-align:left;
 }
@@ -106,7 +116,7 @@
   text-align:center;
   line-height:normal;
 }
-.image {
+.image1 {
   color:#000000;
 }
 .horizontal_line {
